@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Angel-hadzhiev
-- 👀 I’m interested in Networks( Cisco,Fortinet,PaloAlto,Aruba)
+- 👀 I’m interested in Networking ( Cisco,Fortinet,PaloAlto,Aruba)
 - 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
